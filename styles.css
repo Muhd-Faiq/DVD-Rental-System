@@ -1,0 +1,88 @@
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+	margin-top: 0px;
+	padding: 46.5px;
+  text-align: center;
+  background: white;
+	font-size: 50px;
+	font-family: sans-serif;
+	background-image: url("Wallpaper.jpg");
+}
+.topleft {
+	position: fixed;
+  top: 3px;
+  left: 0px;
+}
+.topright {
+	position: fixed;
+  top: 3px;
+  right: 0px;
+}
+.belowleft{
+	position: fixed;
+  bottom: 8px;
+  left: 16px;
+}
+.belowright{
+	position: fixed;
+  bottom: 8px;
+  right: 16px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+img{
+  border-radius: 2px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px;
+}
+
+table{
+  background-color: grey;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+form{
+  color: white;
+  border:4px solid white;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 35%;
+  width: 99%;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  border:4px solid white;
+  color: white;
+  border:4px solid white;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
