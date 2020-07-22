@@ -1,1 +1,1 @@
-# lala_asdsa
+This DVD Rental System is a web-based software which is used to manage the dvd rental company. There are three type of user which are admin, manager and staff. All users have different level which is admin is the highest level and staff is the lowest level. The higher the level the more features you can access in this software. I used html, javascript, css, php and mysql to create this software. I used xampp the third party tool for the web server.
